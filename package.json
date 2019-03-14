@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "fast-json-stable-stringify": "^2.0.0",
+    "fast-json-stable-stringify": "git+https://github.com/hashamhabib/fast-json-stable-stringify.git",
     "ts-invariant": "^0.2.1",
     "tslib": "^1.9.3"
   },
